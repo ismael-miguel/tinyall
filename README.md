@@ -53,5 +53,6 @@ Currently, the number of functions is limited and will change:
      - 3 - Capital `W` in `World`
      - 4 - End with `!`
      - 5 - End with a Linux newline
+
 - `I` - Returns the input (marked to be deleted)
 - `V` - Returns a value
